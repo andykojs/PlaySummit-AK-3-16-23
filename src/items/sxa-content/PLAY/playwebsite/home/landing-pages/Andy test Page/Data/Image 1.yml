@@ -1,0 +1,20 @@
+﻿---
+ID: "fd2fb906-52aa-41f4-9717-b61ad5c504f7"
+Parent: "33460188-07a2-49cf-b6ab-767748ce888d"
+Template: "d885df8c-b2d6-4007-b34b-2bbafb527304"
+Path: "/sitecore/content/PLAY/playwebsite/home/landing-pages/Andy test Page/Data/Image 1"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "57caf172-ce57-4e48-b3a1-46f8aea71c08"
+      Hint: Image
+      Value: |
+        <image mediaid="a1a48a28-9b33-4456-9f88-c6b3582a0528" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "77b68b07-b00b-4419-997f-c8b7431cad1d"
