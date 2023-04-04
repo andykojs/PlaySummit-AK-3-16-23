@@ -3,7 +3,6 @@ ID: "104ce531-db75-42f8-bd0d-d25a47ca8e08"
 Parent: "4d587c56-3717-41cb-936c-5d0412a50b6b"
 Template: "95cb88e7-8068-4a9c-9eeb-05f9a22c49d4"
 Path: "/sitecore/content/PLAY/playwebsite/home/landing-pages/Andy test Page"
-BranchID: "c21cb9f5-9d4c-4904-b199-538835128fa3"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
@@ -17,7 +16,7 @@ SharedFields:
 - ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
   Hint: __Thumbnail
   Value: |
-    <image mediaid="{19D8E671-DBFC-4660-AC54-BB8CBF6A416A}" />
+    <image mediaid="{0916B4B9-E039-48EE-AD0B-3B81EB7EDBF4}" />
 - ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
   Hint: __Renderings
   Value: |
@@ -174,7 +173,7 @@ Languages:
       Value: Andy test Page
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "b565725b-616b-410c-a582-ab1b9a8fa6c8"
+      Value: "b1f8c886-daa6-4b67-a403-925c99b01e0a"
     - ID: "e0c0c8a4-0fea-4963-8b86-d47810b80efa"
       Hint: Content
       Value: <p>Morbi eu vehicula mi, a congue sapien. Mauris vitae leo lectus. Nam luctus urna molestie massa pellentesque, a porttitor augue varius. Duis dictum nisl metus, non luctus nunc accumsan non. Sed augue libero, condimentum mollis placerat in, tempus ut sapien. Praesent sed purus id sem convallis molestie vitae a ligula. Sed ac sodales velit. Donec fringilla, felis nec luctus auctor, lectus urna lacinia nisl, sit amet viverra eros ipsum eu libero. Nullam tincidunt nisl id magna dictum rhoncus. Aliquam erat volutpat. Duis commodo ante risus, eu lacinia diam porttitor non. Proin faucibus rutrum dolor, non dignissim ligula. Nam facilisis mi vehicula lacus dapibus molestie.</p>
